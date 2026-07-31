@@ -1,0 +1,4 @@
+Name,Path,Data Type,Logical Address,Comment,Hmi Visible,Hmi Access,Hmi Write,Typeobject,Version ID
+motor_speed,Default tag table,UInt,%MW14,,True,True,True,,
+temp,Default tag table,UInt,%MW16,,True,True,True,,
+status,Default tag table,Bool,%M12.0,,True,True,True,,
